@@ -5,7 +5,8 @@
 - 📫Доступен к сотрудничеству : Tg https://t.me/romassshkin
 - 😄 Меланхолик - экстроверт
 - ⚡ Fun fact: Мечтаю о работе в финтехе и своем стартапе
-![image](https://github.com/RomashkinYer/RomashkinYer/assets/131952422/45dbabe0-7f6d-4409-95fd-c8a798116dda)
+![image](https://github.com/RomashkinYer/RomashkinYer/assets/131952422/25c1e1ab-aabd-4897-ab33-ab2ff50ac494)
+
 
 
 <!---
