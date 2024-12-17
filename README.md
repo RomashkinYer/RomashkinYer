@@ -1,9 +1,9 @@
-- 👋 Привет, я Romashkin
-- 👀 Мне интересны программирование и работа
-- 🌱 Сейчас закончил колледж на программисту и планирую начать работать
-- 💞️ За 4 года я попробывал многое от Html до С++. Сейчас я сделал выбор в пользу java и android разработки
-- 📫Доступен к сотрудничеству : Tg https://t.me/romassshkin
-- ⚡ Fun fact: Мечтаю о работе в финтехе и своем стартапе
+- 👋 Hi, I'm Romashkin
+- 👀 I am interested in programming and IT technologies
+- 🌱 Now I work as a ыгззщке engineer and studing programming
+- 💞️ In 4 years, I've tried a lot from Html to C++. Now I have made a choice in favor of java and android development
+- 📫 How to contact me: https://t.me/romassshkin
+- ⚡ Fun fact: I dream of working in fintech and my startup
 ![image](https://github.com/RomashkinYer/RomashkinYer/assets/131952422/25c1e1ab-aabd-4897-ab33-ab2ff50ac494)
 
 
