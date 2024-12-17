@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Romashkin
 - 👀 I am interested in programming and IT technologies
-- 🌱 Now I work as a ыгззщке engineer and studing programming
+- 🌱 Now I work as a Support Engineer and studing programming
 - 💞️ In 4 years, I've tried a lot from Html to C++. Now I have made a choice in favor of java and android development
 - 📫 How to contact me: https://t.me/romassshkin
 - ⚡ Fun fact: I dream of working in fintech and my startup
