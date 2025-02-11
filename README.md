@@ -8,8 +8,8 @@
 
 <p align="center">
 	<a href="https://github.com/RomashkinYer?tab=repositories">
-		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=C4e10VeK&count_private=false&show_icons=true&theme=gruvbox&rank_icon=github" />
-		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4e10VeK&hide=css,html,shell,javascript,c%23&theme=gruvbox&layout=compact" />
+		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=RomashkinYer&count_private=false&show_icons=true&theme=gruvbox&rank_icon=github" />
+		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomashkinYer&hide=css,html,shell,javascript,c%23&theme=gruvbox&layout=compact" />
 	</a>
 </p>
 
