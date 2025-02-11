@@ -12,15 +12,7 @@
 	</a>
 </p>
 
----
-<div align="center">
-	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Java" /></a>
-	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" /></a>
-	<a href="https://www.rust-lang.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" /></a>
-	<a href="https://archlinux.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Linux" /></a>
-	<a href="https://git-scm.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></a>
-	<a href="https://www.vulkan.org/" target="_blank"><img width="30" height="30" src="https://www.vulkan.org/user/themes/vulkan/images/favicon.png" alt="Vulkan" /></a>
-</div>
+
 
 
 
