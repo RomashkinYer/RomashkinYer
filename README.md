@@ -1,7 +1,12 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9rcmFiZ252MmNwYjdqY2dvbWV6bzR3bDRiMGJyaTNzOG1yN2ZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9rcmFiZ252MmNwYjdqY2dvbWV6bzR3bDRiMGJyaTNzOG1yN2ZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 </div>
+
+<h1>
+  "Tea whith milk"
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I'm Romashkin
