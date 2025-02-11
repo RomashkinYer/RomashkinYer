@@ -4,7 +4,6 @@
 - 💞️ In 4 years, I've tried a lot from Html to C++. Now I have made a choice in favor of java and android development
 - 📫 How to contact me: https://t.me/romassshkin
 - ⚡ Fun fact: I dream of working in fintech and my startup
-![image](https://github.com/RomashkinYer/RomashkinYer/assets/131952422/25c1e1ab-aabd-4897-ab33-ab2ff50ac494)
 
 <p align="center">
 	<a href="https://github.com/RomashkinYer?tab=repositories">
@@ -15,7 +14,7 @@
 
 ---
 <div align="center">
-	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" /></a>
+	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Java" /></a>
 	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" /></a>
 	<a href="https://www.rust-lang.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" /></a>
 	<a href="https://archlinux.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Linux" /></a>
