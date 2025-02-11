@@ -24,8 +24,8 @@
 
 <p align="center">
   <a href="https://github.com/RomashkinYer?tab=repositories" style="display: flex; justify-content: center;">
-    <img height="110" src="https://github-readme-stats.vercel.app/api?username=RomashkinYer&count_private=false&show_icons=true&theme=gruvbox&rank_icon=github" style="margin-right: 0px;" />     
-    <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomashkinYer&hide=css,html,shell,javascript,c%23&theme=gruvbox&layout=compact" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=RomashkinYer&count_private=false&show_icons=true&theme=gruvbox&rank_icon=github" style="margin-right: 0px;" />     
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomashkinYer&hide=css,html,shell,javascript,c%23&theme=gruvbox&layout=compact" />
   </a>
 </p>
 
